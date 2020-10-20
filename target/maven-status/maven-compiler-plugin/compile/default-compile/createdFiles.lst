@@ -1,0 +1,10 @@
+com\chat\app\controller\SampleClass2.class
+com\chat\app\serviceImpl\UserServiceImpl.class
+com\chat\app\controller\ChatClientController.class
+com\chat\app\dto\UserDTO.class
+com\chat\app\controller\sampleClass1.class
+com\chat\app\dto\MessageDTO.class
+com\chat\app\controller\UserController.class
+com\chat\app\model\User.class
+com\chat\app\repository\UserRepository.class
+com\chat\app\service\UserService.class
